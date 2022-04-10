@@ -1,0 +1,78 @@
+4. git clone https://github.com/YllSulejmani/SI_2022_lab1_145022
+5.git add . , git status, git commit -m "Add 5 items to the shopping list", git push
+6. git status , git add . , git commit -m "Add quantities to the items", git push
+7. git branch branch1, git branch branch2, 
+
+
+
+Author: Yll <49499881+YllSulejmani@users.noreply.github.com>
+Date:   Sun Apr 10 18:24:05 2022 +0200
+
+    Add quantities to the items
+
+commit bf0843264c1bbec384994533159ee3d7d95e832e
+Author: Yll <49499881+YllSulejmani@users.noreply.github.com>
+Date:   Sun Apr 10 18:22:02 2022 +0200
+
+    Add 5 items to the shopping list
+
+commit 6b81dc8ebc70c2b0d72655d8813b310ad06631b5
+Author: Yll <49499881+YllSulejmani@users.noreply.github.com>
+Date:   Sun Apr 10 18:05:37 2022 +0200
+
+    Update README.md
+
+commit e950e8cd85c1bd054565846f3c0d8c1b9459bd5e
+Author: Yll <49499881+YllSulejmani@users.noreply.github.com>
+Date:   Sun Apr 10 18:04:41 2022 +0200
+
+9. git checkout branch1, git push origin branch1, git checkout branch2, git push origin branch2
+
+10 git checkout branch1
+
+11. git statuts, git add . , git commit -m "Change quantity of item#5",   git push origin -u origin branch1
+
+
+commit 62cee2428496f0a856451c446925b0ff9988c74a (HEAD -> branch1, origin/branch1)
+Author: Yll <49499881+YllSulejmani@users.noreply.github.com>
+Date:   Sun Apr 10 18:58:50 2022 +0200
+
+    Change quantity of item #5
+
+
+12. git checkout master
+
+13. git status, git add . , git commit -m "change quantity of item#2", git push
+
+14.git push -u origin --all
+
+15. git checkout branch2.
+
+
+16. git status, git add ., git commit -m "Modify item#4"
+
+commit 5bc87e4378f39d19595f31c5db35e86f5a2f4540 (HEAD -> branch2)
+Author: Yll <49499881+YllSulejmani@users.noreply.github.com>
+Date:   Sun Apr 10 19:38:55 2022 +0200
+
+    Modify item#4
+
+
+
+18. git status, git add . , git commit -a -ammend -m "Modify item #4 and add item #6"
+
+$ git log
+commit 6921f695019e1a15c6af44d48869f5ea7651df56 (HEAD -> branch2)
+Author: Yll <49499881+YllSulejmani@users.noreply.github.com>
+Date:   Sun Apr 10 19:51:45 2022 +0200
+
+    mend
+
+    Modify item#4 and add item #6
+
+
+20. git checkout master 
+
+21 i 22 ne mozev da gi napravam
+
+
