@@ -2,4 +2,4 @@ Spinach x 2
 Broccoli x 4
 Sweet potatoes x 5
 Carrots x  6
-Tomatoes x 7
+Tomatoes x 10
