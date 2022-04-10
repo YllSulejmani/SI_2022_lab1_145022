@@ -73,6 +73,7 @@ Date:   Sun Apr 10 19:51:45 2022 +0200
 
 20. git checkout master 
 
-21 i 22 ne mozev da gi napravam
 
-
+22. git add . (se dodava nov file i se dodavaat site promeni na staging)
+    git commit -m "Add docs" (se pravi nov commit)
+23. git push -u origin --all (se sinhroniziraat site lokalni promeni so remote)
