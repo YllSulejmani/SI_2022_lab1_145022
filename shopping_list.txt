@@ -3,3 +3,4 @@ Broccoli x 5
 Sweet potatoes x 5
 Peppers x 1 
 Tomatoes x 10
+Orange x 12
